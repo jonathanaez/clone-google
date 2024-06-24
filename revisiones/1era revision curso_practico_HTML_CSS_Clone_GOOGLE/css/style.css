@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.nav {
+    background-color: brown;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+}
+
+.footer {
+    background-color: blue;
+    display: flex;
+    justify-content: space-evenly;
+    /*flex-direction: column;*/
+    
+}
+
+.box4 {
+    background-color: black;
+}
+
+.box5 {
+    background-color: blueviolet;
+}
